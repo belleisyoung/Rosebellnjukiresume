@@ -1,0 +1,393 @@
+.rosebell-njuki-resume, .rosebell-njuki-resume * {
+    box-sizing: border-box;
+    }
+.rosebell-njuki-resume {
+   background: #ffffff;
+    width: 595px;
+    height: 842px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.colour-block {
+   width: 215px;
+    height: 842px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.rectangle-1 {
+   background: #bc82ba;
+    width: 215px;
+    height: 842px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.PHOTO {
+   position: absolute;
+    inset: 0;
+   }
+
+.ellipse-8 {
+   background: #d9d9d9;
+    border-radius: 50%;
+    width: 149px;
+    height: 155px;
+    position: absolute;
+    left: 31px;
+   top: 45px;
+   }
+
+.rosebell-1 {
+   width: 215px;
+    height: 158px;
+    position: absolute;
+    left: 4px;
+   top: 42px;
+   }
+
+.rosebell-njuki {
+   color: #ffffff;
+    text-align: left;
+    font: 500 38px/44px 'Poppins', sans-serif;
+    position: absolute;
+    left: 17px;
+   top: 215px;
+   }
+
+.Occupation {
+   color: #ffffff;
+    text-align: left;
+    font: 500 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 313px;
+   }
+
+.email {
+   color: #ffffff;
+    text-align: left;
+    font: 500 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 332px;
+   }
+
+.linkedin {
+   color: #ffffff;
+    text-align: left;
+    font: 400 11px 'Poppins', sans-serif;
+    text-decoration: underline;
+    position: absolute;
+    left: 21px;
+   top: 359px;
+   }
+
+.Skills {
+   position: absolute;
+    inset: 0;
+   }
+
+.html-css-design-thinking-adobe-photoshop-adobe-illustrator-figma-invision-miro-prototyping-user-research {
+   color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 18px;
+   top: 413px;
+    width: 149px;
+   }
+
+.Skills {
+   color: #ffffff;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 391px;
+    width: 172px;
+   }
+
+.references {
+   position: absolute;
+    inset: 0;
+   }
+
+._254-710-893-436 {
+   color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 729px;
+    width: 152px;
+    height: 15px;
+   }
+
+.seline-akumu-director-at-house-of-akumu {
+   color: #ffffff;
+    text-align: left;
+    font: 600 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 682px;
+    width: 152px;
+    height: 40px;
+   }
+
+._254-786-340-196 {
+   color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 651px;
+    width: 152px;
+    height: 30.9px;
+   }
+
+.laura-koki-head-of-sales-at-payhouse-limited {
+   color: #ffffff;
+    text-align: left;
+    font: 600 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 605px;
+    width: 152px;
+    height: 48px;
+   }
+
+.references2 {
+   color: #ffffff;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 583px;
+    width: 172px;
+    height: 44.14px;
+   }
+
+.experience {
+   position: absolute;
+    inset: 0;
+   }
+
+.user-interface-designer-payhouse-limited-march-2023-present-payhouse-ltd-is-a-technology-company-specializing-in-providing-payment-software-smart-terminal-management-systems-pos-terminals-and-customized-digital-solutions-br-cutting-across-all-major-sectors-collaborated-with-cross-functional-teams-including-developers-product-managers-and-stakeholders-to-ensure-the-successful-delivery-of-a-payment-solution-application-for-access-bank-drc-in-their-terminals-introduced-zeplin-to-the-team-leading-to-a-better-collaboration-and-smoother-design-hand-off-improved-the-user-experience-of-the-kcb-bank-smart-pay-application-through-implementation-of-user-centered-design-principles-and-better-visual-design {
+   text-align: left;
+    position: absolute;
+    left: 230px;
+   top: 428px;
+    width: 340px;
+   }
+
+.user-interface-designer-payhouse-limited-march-2023-present-payhouse-ltd-is-a-technology-company-specializing-in-providing-payment-software-smart-terminal-management-systems-pos-terminals-and-customized-digital-solutions-br-cutting-across-all-major-sectors-collaborated-with-cross-functional-teams-including-developers-product-managers-and-stakeholders-to-ensure-the-successful-delivery-of-a-payment-solution-application-for-access-bank-drc-in-their-terminals-introduced-zeplin-to-the-team-leading-to-a-better-collaboration-and-smoother-design-hand-off-improved-the-user-experience-of-the-kcb-bank-smart-pay-application-through-implementation-of-user-centered-design-principles-and-better-visual-design-span {
+   
+           color: #931f8e;
+   
+           font: 700 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.user-interface-designer-payhouse-limited-march-2023-present-payhouse-ltd-is-a-technology-company-specializing-in-providing-payment-software-smart-terminal-management-systems-pos-terminals-and-customized-digital-solutions-br-cutting-across-all-major-sectors-collaborated-with-cross-functional-teams-including-developers-product-managers-and-stakeholders-to-ensure-the-successful-delivery-of-a-payment-solution-application-for-access-bank-drc-in-their-terminals-introduced-zeplin-to-the-team-leading-to-a-better-collaboration-and-smoother-design-hand-off-improved-the-user-experience-of-the-kcb-bank-smart-pay-application-through-implementation-of-user-centered-design-principles-and-better-visual-design-span2 {
+   
+           color: #bc82ba;
+   
+           font: 400 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.user-interface-designer-payhouse-limited-march-2023-present-payhouse-ltd-is-a-technology-company-specializing-in-providing-payment-software-smart-terminal-management-systems-pos-terminals-and-customized-digital-solutions-br-cutting-across-all-major-sectors-collaborated-with-cross-functional-teams-including-developers-product-managers-and-stakeholders-to-ensure-the-successful-delivery-of-a-payment-solution-application-for-access-bank-drc-in-their-terminals-introduced-zeplin-to-the-team-leading-to-a-better-collaboration-and-smoother-design-hand-off-improved-the-user-experience-of-the-kcb-bank-smart-pay-application-through-implementation-of-user-centered-design-principles-and-better-visual-design-span3 {
+   
+           color: #000000;
+   
+           font: 400 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.user-interface-designer-payhouse-limited-march-2023-present-payhouse-ltd-is-a-technology-company-specializing-in-providing-payment-software-smart-terminal-management-systems-pos-terminals-and-customized-digital-solutions-br-cutting-across-all-major-sectors-collaborated-with-cross-functional-teams-including-developers-product-managers-and-stakeholders-to-ensure-the-successful-delivery-of-a-payment-solution-application-for-access-bank-drc-in-their-terminals-introduced-zeplin-to-the-team-leading-to-a-better-collaboration-and-smoother-design-hand-off-improved-the-user-experience-of-the-kcb-bank-smart-pay-application-through-implementation-of-user-centered-design-principles-and-better-visual-design-span4 {
+   
+           color: #000000;
+   
+           font: 400 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services {
+   text-align: left;
+    position: absolute;
+    left: 231px;
+   top: 128px;
+    width: 340px;
+   }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services-span {
+   
+           color: #931f8e;
+   
+           font: 700 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services-span2 {
+   
+           color: #931f8e;
+   
+           font: 600 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services-span3 {
+   
+           color: #bc82ba;
+   
+           font: 500 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services-span4 {
+   
+           color: #000000;
+   
+           font: 900 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services-span5 {
+   
+           color: #000000;
+   
+           font: 400 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.packaging-designer-ofelos-project-january-2023-march-2023-ofelos-is-a-company-dedicated-to-making-delicious-diabetic-friendly-and-keto-friendly-cookies-in-this-project-i-created-packaging-designs-for-their-new-line-of-cookies-known-as-njugu-cookies-and-stevia-tablet-sweeteners-with-a-distinctive-color-palette-and-custom-craft-illustrations-i-created-a-package-that-is-both-recognizable-and-inviting-they-are-now-in-the-midst-of-a-successful-soft-launch {
+   text-align: left;
+    position: absolute;
+    left: 232px;
+   top: 271px;
+    width: 340px;
+   }
+
+.packaging-designer-ofelos-project-january-2023-march-2023-ofelos-is-a-company-dedicated-to-making-delicious-diabetic-friendly-and-keto-friendly-cookies-in-this-project-i-created-packaging-designs-for-their-new-line-of-cookies-known-as-njugu-cookies-and-stevia-tablet-sweeteners-with-a-distinctive-color-palette-and-custom-craft-illustrations-i-created-a-package-that-is-both-recognizable-and-inviting-they-are-now-in-the-midst-of-a-successful-soft-launch-span {
+   
+           color: #931f8e;
+   
+           font: 700 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.packaging-designer-ofelos-project-january-2023-march-2023-ofelos-is-a-company-dedicated-to-making-delicious-diabetic-friendly-and-keto-friendly-cookies-in-this-project-i-created-packaging-designs-for-their-new-line-of-cookies-known-as-njugu-cookies-and-stevia-tablet-sweeteners-with-a-distinctive-color-palette-and-custom-craft-illustrations-i-created-a-package-that-is-both-recognizable-and-inviting-they-are-now-in-the-midst-of-a-successful-soft-launch-span2 {
+   
+           color: #931f8e;
+   
+           font: 600 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.packaging-designer-ofelos-project-january-2023-march-2023-ofelos-is-a-company-dedicated-to-making-delicious-diabetic-friendly-and-keto-friendly-cookies-in-this-project-i-created-packaging-designs-for-their-new-line-of-cookies-known-as-njugu-cookies-and-stevia-tablet-sweeteners-with-a-distinctive-color-palette-and-custom-craft-illustrations-i-created-a-package-that-is-both-recognizable-and-inviting-they-are-now-in-the-midst-of-a-successful-soft-launch-span3 {
+   
+           color: #bc82ba;
+   
+           font: 500 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.packaging-designer-ofelos-project-january-2023-march-2023-ofelos-is-a-company-dedicated-to-making-delicious-diabetic-friendly-and-keto-friendly-cookies-in-this-project-i-created-packaging-designs-for-their-new-line-of-cookies-known-as-njugu-cookies-and-stevia-tablet-sweeteners-with-a-distinctive-color-palette-and-custom-craft-illustrations-i-created-a-package-that-is-both-recognizable-and-inviting-they-are-now-in-the-midst-of-a-successful-soft-launch-span4 {
+   
+           color: #000000;
+   
+           font: 900 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.packaging-designer-ofelos-project-january-2023-march-2023-ofelos-is-a-company-dedicated-to-making-delicious-diabetic-friendly-and-keto-friendly-cookies-in-this-project-i-created-packaging-designs-for-their-new-line-of-cookies-known-as-njugu-cookies-and-stevia-tablet-sweeteners-with-a-distinctive-color-palette-and-custom-craft-illustrations-i-created-a-package-that-is-both-recognizable-and-inviting-they-are-now-in-the-midst-of-a-successful-soft-launch-span5 {
+   
+           color: #000000;
+   
+           font: 400 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.line-1 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 0.3px 0 0 0;
+    width: 329px;
+    height: 0px;
+    position: absolute;
+    left: 230px;
+   top: 110px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
+.Experience {
+   color: #931f8e;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 230px;
+   top: 88px;
+    width: 172px;
+   }
+
+.Education {
+   position: absolute;
+    inset: 0;
+   }
+
+.Education {
+   color: #931f8e;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 231px;
+   top: 645px;
+    width: 172px;
+   }
+
+.line-3 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 0.3px 0 0 0;
+    width: 329px;
+    height: 0px;
+    position: absolute;
+    left: 230px;
+   top: 664px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
